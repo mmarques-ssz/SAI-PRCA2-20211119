@@ -1,0 +1,7 @@
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\bin\Debug\WFA_Contador.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\bin\Debug\WFA_Contador.pdb
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\obj\x86\Debug\WFA_Contador.Form1.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\obj\x86\Debug\WFA_Contador.Properties.Resources.resources
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\obj\x86\Debug\WFA_Contador.csproj.GenerateResource.Cache
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\obj\x86\Debug\WFA_Contador.exe
+D:\Aulas\IFSP\2021\SAI-271-PRCA2\20211112\WFA_Contador\WFA_Contador\obj\x86\Debug\WFA_Contador.pdb
